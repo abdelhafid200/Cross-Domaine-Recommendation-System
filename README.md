@@ -1,6 +1,5 @@
 # Cross-Domaine-Recommendation-System
 
----
 
 ##  Cross-Domain Recommendation - User-Based Approaches  
 
@@ -26,7 +25,7 @@ Ce repository regroupe l'implémentation de plusieurs approches de **recommandat
 ###  **Datasets utilisés :**  
 - **Target Domain : Taobao User Behavior Dataset**  
   - 1 million d’utilisateurs, 4 millions d’items, interactions (click, cart, fav, buy).  
-  - le lien de Dataset :[Dataset Target](https://www.kaggle.com/datasets/marwa80/userbehavior)
+  - le lien de Dataset : [Dataset Target](https://www.kaggle.com/datasets/marwa80/userbehavior)
 
 - **Source Domain : Taobao Alimama Ad Dataset**  
   - 1.14 million d’utilisateurs, 26 millions d’interactions, données publicitaires (ad clicks).
